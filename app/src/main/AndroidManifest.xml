@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.puzzlemind.brainsqueezer">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".PuzzleApp"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_innovation_app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_innovation_app_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BrainSqueezer.NoActionBar">
+        <activity
+            android:name=".scambled.SlidingPuzzleActivity"
+            android:exported="true"
+            android:label="@string/title_activity_sliding_puzzle"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar.NoActionBar" >
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="scrambled.page.link"
+                    android:scheme="https" />
+            </intent-filter>
+
+            <intent-filter
+                android:autoVerify="true"
+                tools:targetApi="m">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="scrambled.page.link"
+                    android:scheme="http" />
+                <data
+                    android:host="scrambled.page.link"
+                    android:scheme="https" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name=".scambled.ScrambledLevelActivity"
+            android:exported="true"
+            android:label="@string/title_activity_scrambled_level"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar.NoActionBar" />
+        <activity
+            android:name=".scambled.ScrambledActivity"
+            android:exported="true"
+            android:label="@string/title_activity_scrambled"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar.NoActionBar" />
+        <!--
+     Set custom default icon. This is used when no icon is set for incoming notification messages.
+     See README(https://goo.gl/l4GJaQ) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/ic__28_light_bulb_1" />
+        <!--
+ Set color used with incoming notification messages. This is used when no color is set for the incoming
+             notification message. See README(https://goo.gl/6BKBk7) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/white" />
+
+        <activity
+            android:name=".settings.SettingsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar.NoActionBar" />
+        <activity
+            android:name=".settings.CreditActivity"
+            android:exported="true"
+            android:label="@string/title_activity_credit"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar.NoActionBar" />
+        <activity
+            android:name=".profile.ProfileActivity"
+            android:exported="true"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar.NoActionBar" />
+        <activity
+            android:name=".login.LoginActivity"
+            android:exported="true"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar.NoActionBar" />
+        <activity
+            android:name=".mcq.LevelsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_levels"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar" />
+        <activity
+            android:name=".mcq.DifficultyLevelActivity"
+            android:exported="true"
+            android:label="@string/title_activity_difficulty_level"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar" />
+        <activity
+            android:name=".picturename.PictureNameActivity"
+            android:exported="true"
+            android:label="@string/title_activity_picture_name"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar" />
+
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-1061819319094285~6610812016" />
+
+        <activity
+            android:name=".mcq.McqActivity"
+            android:exported="true"
+            android:label="@string/title_activity_mcq"
+            android:parentActivityName=".mcq.LevelsActivity"
+            android:theme="@style/Theme.BrainSqueezer">
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="brainsqueezer.page.link"
+                    android:scheme="https"
+                    android:path="/mcq"/>
+            </intent-filter>
+
+            <intent-filter
+                android:autoVerify="true"
+                tools:targetApi="m">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="brainsqueezer.page.link"
+                    android:scheme="http" />
+                <data
+                    android:host="brainsqueezer.page.link"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".main.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.BrainSqueezer.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

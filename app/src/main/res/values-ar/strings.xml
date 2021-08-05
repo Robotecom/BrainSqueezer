@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">شغل عقلك</string>
+    <string name="app_name_label">شغل عقلك</string>
+
+    <string name="score">العلامة:%.2f2</string>
+    <string name="question_left">%1$d\\%2$d</string>
+    <string name="stars">نجوم:%d</string>
+    <string name="level">المستوى:%d</string>
+    <string name="question_label">س:</string>
+    <string name="the_question">%d</string>
+    <string name="number_convert">%d</string>
+    <string name="number_convert_float">%1$.1f</string>
+    <string name="alert_first_open">حاول حل جميع الأسئلة في الوقت المحدد</string>
+    <string name="okay">حسناً</string>
+    <string name="failure">حاول مجدداً</string>
+    <string name="success">نجحت</string>
+
+    <string   name="correct_answers">الإجابات الصحيحة..........</string>
+    <string name="incorrect_answers">الإجابات الخاطئة...........</string>
+    <string name="redo">إعادة</string>
+    <string name="next">التالي</string>
+    <string name="wait_for_ad">لحظات ,من فضلك…</string>
+    <string name="check_network">تأكد من اتصالك بالانترنت: %s</string>
+    <string name="start_label">إبدأ</string>
+    <string name="warming">%s</string>
+    <string name="q_left">%d/%d</string>
+    <string name="who">من؟</string>
+    <string name="pic_name_first_note">أنتبه , حاول حفظ اسماء القطط التي ستظهر عليك</string>
+    <string name="question_who_label">من</string>
+    <string name="beginner">مُبتدئ</string>
+    <string name="medium_difficulty">متوسط</string>
+    <string name="hard_difficulty">صعب</string>
+    <string name="how_savvy_game_label">سين و جيم</string>
+    <string name="scramble_game_label">سكرامبلد</string>
+    <string name="hanoi_tower_game_label">هانوي تاور</string>
+    <string name="basic_difficulty">بسيط</string>
+    <string name="easy_difficuty">يسير</string>
+    <string name="normal_difficuty">متوسط</string>
+    <string name="very_hard_difficulty">مستحيل</string>
+    <string name="balance">%.1f</string>
+    <string name="level_number">المستوى: %d</string>
+    <string name="time_remaining">الوقت المتبقي(ث)..........</string>
+    <string name="total_score">المجموع...........</string>
+    <string name="levels_num">%sمستوى</string>
+    <string name="diff_trophies">%1$d\\%2$d</string>
+    <string name="games">الألعاب</string>
+    <string name="leaderboard">قائمة الصدارة</string>
+    <string name="connect_to_internet_to_share_result">اتصل بالانترنت وتسلق قائمة الصدراة</string>
+    <string name="climbup_leaderboard_info">تسلق قائمة الصدارة بالبقاء مرتبطاً بالانترنت </string>
+    <string name="skip_label">تخطي</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="submit_label">موافق</string>
+    <string name="signin_with">sign in with</string>
+    <string name="user_data_entry_fragment">User Data</string>
+    <string name="pick_image">اختر صورة لحسابك</string>
+    <string name="this_operation_need_internet">هذة العملية تحتاج انترنت</string>
+    <string name="name_too_short">الاسم المدخل قصير</string>
+    <string name="see_my_result">شغل عقلكr</string>
+    <string name="share_game_title">اختبر معلوماتك , دع الأخرين يعرفون مدى ثقافتك</string>
+    <string name="points">%dنقطة</string>
+    <string name="max_level_label">المستوى</string>
+    <string name="points_label">النقاط</string>
+    <string name="rank_label">ر#</string>
+    <string name="leaderboard_label">قائمة الصدراة</string>
+    <string name="no_data_available">لا توجد بيانات</string>
+    <string name="error_msg">خطأ:%s</string>
+    <string name="order_by">الترتيب بحسب</string>
+    <string name="top_50">أعلى 50</string>
+    <string name="signin_with_google">تسجيل الدخول بجوجل</string>
+    <string name="by_level">بحسب المستوى</string>
+    <string name="by_point">بحسب النقاط</string>
+    <string name="by_trophy">بحسب الكؤوس</string>
+    <string name="name_label">الاسم</string>
+    <string name="trophy">الكؤوس</string>
+    <string name="stars_label">النجوم</string>
+    <string name="trophies_label">الكؤوس</string>
+    <string name="games_profile_label">الألعاب</string>
+    <string name="game_label">اللعبة</string>
+    <string name="game_1_name">سين و جيم</string>
+    <string name="game_2_name">15Puzzle</string>
+    <string name="trophy_label">الكؤوس</string>
+    <string name="this_feature_needs_internet">هدة الخاصية تحتاج انترنت</string>
+    <string name="last_week">أخر اسبوع</string>
+    <string name="credit_text">This app is using Icons Provided by Freepik</string>
+    <string name="sound_label">الصوت</string>
+    <string name="balance_home_label">الرصيد: %d</string>
+    <string name="user_progress_label">المهارة: </string>
+    <string name="percentage">%1.0f%%</string>
+    <string name="coming_soon">في القريب العاجل</string>
+    <string name="app_login_name">شغل عقلك</string>
+    <string name="share_app">شارك اللعبة</string>
+    <string name="rate_game">قيم اللعبة</string>
+    <string name="train_your_brain">متع عقلك بمجموعة من الألعاب المسلية</string>
+    <string name="app_icon_url" ><![CDATA[https://firebasestorage.googleapis.com/v0/b/puzzlemind-ceae2.appspot.com/o/Brain-Squeezer-App-Icon.webp?alt=media&token=efd27b37-38c9-4af0-bd77-7e7c783cfce0]]></string>
+    <string name="scrambled_live_butt_label">مباراة</string>
+    <string name="scrambled_tournament_butt_label">بطولة</string>
+    <string name="scrambled_search_butt_label">بحث</string>
+    <string name="matches_label">مباراة:</string>
+    <string name="scrambled_points_label">النقاط:</string>
+    <string name="moves">الحركات: %d</string>
+    <string name="load_more_butt_label">المزيد</string>
+    <string name="playtime">الزمن المُستغرق ..............</string>
+    <string name="moves_have_been">عدد الحركات ................</string>
+    <string name="time_spent">%dث</string>
+    <string name="scrambled_level">المستوى %d</string>
+    <string name="try_to_solve_puzzle">حاول حل اللغز</string>
+    <string name="match_won">%d فوز</string>
+    <string name="match_lost">%d خسارة</string>
+    <string name="can_you_solve_this_sliding_puzzle">هل تستطيع حل هذا اللغز؟!!!</string>
+    <string name="title_for_sharing_scrambled">أحجية رتَِبها</string>
+    <string name="time_label">الوقت</string>
+    <string name="min_time">زمن:%dث</string>
+    <string name="scrambled_level_label">المستوى</string>
+    <string name="minimum_moves">خطوات:%d</string>
+    <string name="moves_label">الخطوات</string>
+    <string name="easy_difficulty_start_dialog_text">حاول حل الأحجية</string>
+    <string name="medium_difficulty_start_dialog_text">حاول حل الأحجية في الوقت المحدد</string>
+    <string name="hard_difficulty_start_dialog_text">حاول ألا تتجاوز الوقت والخطوات المحددة عند حل الأحجية</string>
+    <string name="scrambled_failure">فشلت</string>
+    <string name="scrambled_failure_for_timeout">انتهاء الوقت , حاول مرة أخرى بشكل أسرع</string>
+    <string name="scrambled_failure_for_overpassing_steps">تجاوزت عدد الخطوات المحددة</string>
+    <string name="medium_progess_label">متوسط</string>
+    <string name="hard_progess_label">صعب</string>
+    <string name="easy_progress_label">بسيط</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="stars_collected_label">النجوم</string>
+    <string name="trophies_collected_label">الكؤوس</string>
+    <string name="mcq_progress_label">التقدم</string>
+    <string name="scrambled_score">العلامة...........................</string>
+    <string name="not_enough_balance">رصيدك غير كافي</string>
+    <string name="not_enough_balance_">رصيدك غير كافي</string>
+    <string name="delete_label">حذف</string>
+    <string name="empty_result">لا يوجد المزيد</string>
+    <string name="general_failure">هناك خطأ ما</string>
+
+    <string-array name="difficulty">
+        <item>مُبتدئ</item>
+        <item>بسيط</item>
+        <item>يسير</item>
+        <item>متوسط</item>
+        <item>صعب</item>
+        <item>صعب جداً</item>
+        <item>مستحيل</item>
+    </string-array>
+
+</resources>

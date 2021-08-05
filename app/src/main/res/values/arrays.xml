@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="order_by">
+        <item>By LEVEL</item>
+        <item>By POINTS</item>
+        <item>By TROPHIES</item>
+    </string-array>
+</resources>

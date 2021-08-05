@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name" translatable="false">@string/app_name_label</string>
+    <string name="app_name_label">Brain Squeezer</string>
+    <string name="score">Score:%.1f</string>
+    <string name="question_left">%d/%d</string>
+    <string name="stars">Star:%d</string>
+    <string name="level">Level:%d</string>
+    <string name="question_label">Q:</string>
+    <string name="the_question">How old can a Lion get?</string>
+    <string name="number_convert">%d</string>
+    <string name="number_convert_float">%1$.0f</string>
+    <string name="alert_first_open">Try to Solve all Questions in Time</string>
+    <string name="okay">Okay</string>
+    <string name="success">SUCCESS</string>
+    <string name="failure">TRY AGAIN</string>
+
+    <string name="correct_answers">Correct Answers.................</string>
+
+    <string name="incorrect_answers">Incorrect Answers..............</string>
+    <string name="redo">Redo</string>
+    <string name="next">Next</string>
+    <string name="title_activity_mcq" translatable="false">How Savvy?</string>
+    <string name="wait_for_ad">Hold on …</string>
+    <string name="check_network">Check your Internet Connection: %s</string>
+    <string name="start_label">START</string>
+    <string name="warming">%s</string>
+    <string name="q_left">%d/%d</string>
+
+
+    <string name="title_activity_picture_name" translatable="false">PictureNameActivity</string>
+    <string name="who">Who?</string>
+    <string name="pic_name_first_note">Gather your Attention and Try to Memorize cats\' names</string>
+    <string name="question_who_label">W</string>
+    <string name="title_activity_difficulty_level" translatable="false">DifficultyLevelActivity</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="medium_difficulty">MEDIUM</string>
+    <string name="hard_difficulty">HARD</string>
+    <string name="how_savvy_game_label">؟How Savvy?</string>
+    <string name="scramble_game_label">Scrambled</string>
+    <string name="hanoi_tower_game_label">Hanoi Tower</string>
+    <string name="title_activity_levels" translatable="false">LevelsActivity</string>
+    <string name="basic_difficulty">BASIC</string>
+    <string name="easy_difficuty" >EASY</string>
+    <string name="normal_difficuty">NORMAL</string>
+    <string name="very_hard_difficulty">IMPOSSIBLE</string>
+    <string name="balance">%.1f</string>
+    <string name="level_number">Level:%d</string>
+    <string name="title_activity_testgin" translatable="false">Testgin</string>
+    <string name="time_remaining">Time remaining(s)...........</string>
+    <string name="total_score">Total Score...............</string>
+    <string name="levels_num">%sLvl</string>
+    <string name="diff_trophies">%1$d/%2$d</string>
+    <string name="games">GAMES</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="connect_to_internet_to_share_result">Connect to Internet &amp; Climb up Leaderboard</string>
+    <string name="climbup_leaderboard_info">Climb up Leaderboard by staying connected to Internet</string>
+
+    <string name="request_id_token" translatable="false">533107713340-snd3sfqkkkl5ajhorji8g3bkqkqknni5.apps.googleusercontent.com</string>
+    <string name="facebook_app_id" translatable="false">787108811949177</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb787108811949177</string>
+
+
+    <string-array name="difficulty">
+        <item>BEGINNER</item>
+        <item>BASIC</item>
+        <item>EASY</item>
+        <item>NORMAL</item>
+        <item>HARD</item>
+        <item>VERY HARD</item>
+        <item>IMPOSSIBLE</item>
+    </string-array>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="skip_label">SKIP</string>
+    <string name="user_name">Username</string>
+    <string name="submit_label">SUBMIT</string>
+    <string name="signin_with">sign in with</string>
+    <string name="user_data_entry_fragment">User Data</string>
+    <string name="pick_image">Choose your Profile Image</string>
+    <string name="this_operation_need_internet">This operation needs Internet</string>
+    <string name="name_too_short">Too short Name</string>
+    <string name="see_my_result">Brain Squeezer</string>
+    <string name="share_game_title">Test Your Knowledge, let others know How Savvy You are</string>
+    <string name="view_vid_to_pass_question_unit_id" translatable="false">ca-app-pub-1061819319094285/4919290546</string>
+    <string name="points">%dpts</string>
+    <string name="max_level_label">Max Lvl</string>
+    <string name="points_label">Points</string>
+    <string name="name_label">Name</string>
+    <string name="rank_label">R#</string>
+    <string name="leaderboard_label">Leaderboard</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="error_msg">Error:%s</string>
+    <string name="order_by">Order By</string>
+    <string name="top_50">Top 50</string>
+    <string name="signin_with_google">Sign in with Google</string>
+    <string name="by_level">By level</string>
+    <string name="by_point">By point</string>
+    <string name="by_trophy">By trophy</string>
+    <string name="trophy">TROPHY</string>
+    <string name="title_activity_profile" translatable="false">ProfileActivity</string>
+    <string name="stars_label">STARS</string>
+    <string name="trophies_label">TROPHIES</string>
+    <string name="games_profile_label">Games</string>
+    <string name="game_label">Game</string>
+    <string name="game_1_name">How Savvy?!</string>
+    <string name="game_2_name">15Puzzle</string>
+    <string name="app_icon_url"><![CDATA[https://firebasestorage.googleapis.com/v0/b/puzzlemind-ceae2.appspot.com/o/Brain-Squeezer-App-Icon.webp?alt=media&token=efd27b37-38c9-4af0-bd77-7e7c783cfce0]]></string>
+    <string name="preference_file_key" translatable="false">AppPreferences</string>
+    <string name="trophy_label">Trophy</string>
+    <string name="this_feature_needs_internet">This feature needs Internet</string>
+    <string name="last_week">last week</string>
+    <string name="title_activity_credit" translatable="false">CreditActivity</string>
+    <string name="credit_text">This app is using Icons Provided by Freepik &amp; Flat icons</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+    <string name="sound_label">Sound</string>
+    <string name="balance_home_label">Balance: %d</string>
+    <string name="user_progress_label">Progress  </string>
+    <string name="percentage">%1.0f%%</string>
+    <string name="credit_open_trivia" translatable="false">This game is using data provided by Open Trivia database and hence all data provided by this game is available under the Creative Commons Attribution-ShareAlike 4.0 International License.</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="app_login_name">Brain Squeezer</string>
+    <string name="share_app">Share Game</string>
+    <string name="reward_vid_testing_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="rate_game">Rate Game</string>
+    <string name="train_your_brain">Train Your Brain Muscle</string>
+    <string name="title_activity_scrambled" translatable="false">ScrambledActivity</string>
+    <string name="scrambled_live_butt_label">Live</string>
+    <string name="scrambled_tournament_butt_label">Tournament</string>
+    <string name="scrambled_search_butt_label">Search</string>
+    <string name="matches_label">Match:</string>
+    <string name="scrambled_points_label">Point:</string>
+    <string name="title_activity_scrambled_level" translatable="false">ScrambledLevelActivity</string>
+    <string name="title_activity_sliding_puzzle" translatable="false">SlidingPuzzleActivity</string>
+    <string name="moves">Move: %d</string>
+    <string name="load_more_butt_label">Load More</string>
+    <string name="playtime">Playtime.....................</string>
+    <string name="moves_have_been">Number of Moves........</string>
+    <string name="time_spent">%ds</string>
+    <string name="scrambled_level">Level %d</string>
+    <string name="try_to_solve_puzzle">Try to Solve The Puzzle</string>
+    <string name="match_won">%d won</string>
+    <string name="match_lost">%d lost</string>
+    <string name="scrambled_reward_ad_unit_id" translatable="false">ca-app-pub-1061819319094285/5397246150</string>
+    <string name="can_you_solve_this_sliding_puzzle">Can You Solve this Sliding Puzzle</string>
+    <string name="title_for_sharing_scrambled">Scrambled Pics</string>
+    <string name="time_label">Time</string>
+    <string name="min_time">Min:%ds</string>
+    <string name="scrambled_level_label">Level</string>
+    <string name="minimum_moves">Min:%d</string>
+    <string name="moves_label">Steps</string>
+    <string name="easy_difficulty_start_dialog_text">Try to Unscramble the Puzzle</string>
+    <string name="medium_difficulty_start_dialog_text">Try to Solve Puzzle In Time</string>
+    <string name="hard_difficulty_start_dialog_text">Do not Overpass Minimum Steps or Time limits when Solving Puzzle</string>
+    <string name="scrambled_failure">Failed</string>
+    <string name="scrambled_failure_for_timeout">Timeout, try to solve it within the period specified</string>
+    <string name="scrambled_failure_for_overpassing_steps">Try not to overpass Step limits</string>
+    <string name="medium_progess_label">Medium</string>
+    <string name="hard_progess_label">Hard</string>
+    <string name="easy_progress_label">Easy</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="stars_collected_label">Stars</string>
+    <string name="trophies_collected_label">Trophies</string>
+    <string name="mcq_progress_label">Progress</string>
+    <string name="scrambled_score">Score.....................</string>
+    <string name="not_enough_balance">Not Enough Balance</string>
+    <string name="not_enough_balance_">Your Balance is Low</string>
+    <string name="delete_label">Delete</string>
+    <string name="empty_result">No More Data</string>
+    <string name="general_failure">Something went wrong</string>
+
+</resources>

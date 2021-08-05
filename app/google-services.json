@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "533107713340",
+    "project_id": "puzzlemind-ceae2",
+    "storage_bucket": "puzzlemind-ceae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533107713340:android:e99bc5d1a4e9b494c76a39",
+        "android_client_info": {
+          "package_name": "com.example.puzzlegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533107713340-snd3sfqkkkl5ajhorji8g3bkqkqknni5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIUPnoM1RxQ_lu0Mni8zuJkXrBUqZ-X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533107713340-snd3sfqkkkl5ajhorji8g3bkqkqknni5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533107713340:android:a17ea294ce9e13fec76a39",
+        "android_client_info": {
+          "package_name": "com.puzzlemind.brainsqueezer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533107713340-2585t6kaucp4rga7r2b47lv2qk1ao6kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puzzlemind.brainsqueezer",
+            "certificate_hash": "bfd2e141b88777f45110a425d7da7e2000f46b52"
+          }
+        },
+        {
+          "client_id": "533107713340-s2phj61kvijt3598qe0kh1k932dv78rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puzzlemind.brainsqueezer",
+            "certificate_hash": "076a4ddc5826ed601765a16b07082ab40d612ca6"
+          }
+        },
+        {
+          "client_id": "533107713340-snd3sfqkkkl5ajhorji8g3bkqkqknni5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIUPnoM1RxQ_lu0Mni8zuJkXrBUqZ-X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533107713340-snd3sfqkkkl5ajhorji8g3bkqkqknni5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1061819319094285~6610812016"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533107713340:android:1ce970bf8cf69eb1c76a39",
+        "android_client_info": {
+          "package_name": "com.puzzlemind.brainsqueezer.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533107713340-0kgbbf2adfiqcp8mfg7pfeccvd9bc09n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puzzlemind.brainsqueezer.debug",
+            "certificate_hash": "7c9833ca582dcc6fc64006d2d103fc8514b3c256"
+          }
+        },
+        {
+          "client_id": "533107713340-oif7fld23cvfb23lqj4lnm4jef7urojm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puzzlemind.brainsqueezer.debug",
+            "certificate_hash": "c0d7c4b2490710197f325af01927092b71c6e438"
+          }
+        },
+        {
+          "client_id": "533107713340-snd3sfqkkkl5ajhorji8g3bkqkqknni5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIUPnoM1RxQ_lu0Mni8zuJkXrBUqZ-X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533107713340-snd3sfqkkkl5ajhorji8g3bkqkqknni5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
