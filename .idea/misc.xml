@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/d1_l1_preview.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/dollar_filled_strocked.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_39_bronze_medal.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_39_silver_medal.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__01_advertisement.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__03_numbers.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__05_idea.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__09_star.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__11_next.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__12_next_1.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__16_trophy_5.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__21_dollar.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__26_redo_arrow_symbol.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__28_light_bulb_1.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__39_medal_15.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__40_quiz.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__42_badge_rank.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic__empty_dollar.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_baseline_star_rate_24_filled.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_baseline_volume_mute_24.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_baseline_watch_later_24.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_go_back_arrow.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_innovation.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_innovation_app_icon_foreground.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_lock_3.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_mcq_game_icon.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_remove_two.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_right_arrow.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_right_arrow_2.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_slidingpuzzle2.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_trophy_24.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_twitter_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/ic_value_chain.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/trophy_empty.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/trophy_filled.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/trophy_filled_strocked.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/watch_empty.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/drawable/watch_filled.xml" value="0.225" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/layout/activity_main.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/layout/ad_banner.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/layout/facebook_login_button.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/layout/mcq_ad_banner.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/layout/scrambled_banner_ad.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/layout/toggle_button.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/layout/videw_ad_layout.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/mipmap-anydpi-v26/ic_innovation_app_icon.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/mipmap-anydpi-v26/ic_innovation_app_icon_round.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22063329928498468" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/BrainSqueezer/app/src/main/res/xml/remote_config_defaults.xml" value="0.1956521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
