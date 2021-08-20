@@ -31,17 +31,9 @@ android {
     }
     signingConfigs {
         debugConfig {
-            storeFile file('D:\\puzzleGameUI\\debugkeystore.jks')
-            storePassword 'android'
-            keyAlias = 'key0'
-            keyPassword 'android'
+            
         }
-        releaseConfig {
-            storeFile file('D:\\puzzleGameUI\\releasestore\\releasestore.jks')
-            storePassword 'puzzleillneverstop'
-            keyAlias 'puzzlestorm'
-            keyPassword 'puzzleillneverstop'
-        }
+       
     }
 
     buildTypes {
